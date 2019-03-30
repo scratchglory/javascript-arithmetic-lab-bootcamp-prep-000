@@ -24,3 +24,8 @@ function multiply(a, b) {
 function divide(a, b) {
   return a / b
 }
+
+//incrememnts
+function add(a) {
+  return a++
+}
