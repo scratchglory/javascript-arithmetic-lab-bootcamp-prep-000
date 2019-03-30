@@ -36,3 +36,7 @@ function dec(n) {
   return n
 }
 
+//makeInt
+function makeInt(n) {
+  parseInt(n)
+}
