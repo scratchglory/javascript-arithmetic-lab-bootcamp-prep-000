@@ -25,7 +25,4 @@ function divide(a, b) {
   return a / b
 }
 
-//incrememnts
-function add(n) {
-  return n++
-}
+/
