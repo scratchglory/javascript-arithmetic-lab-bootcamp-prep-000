@@ -29,3 +29,9 @@ function inc(n) {
   n++
   return n 
 }
+
+//decrement
+function dec(n) {
+  n--
+  return n
+}
