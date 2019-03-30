@@ -1,5 +1,7 @@
 number = 5
 
-number + 3 
+function add3() {
+  number + 3 
+}
 
-number()
+add3()
